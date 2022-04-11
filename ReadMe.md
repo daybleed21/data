@@ -1,1 +1,1 @@
-this is a repo for me to learn data structure in two pc
+this is a repo for me to learn data structure on two pc
