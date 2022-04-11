@@ -65,7 +65,7 @@ Position FindMax( SearchTree T) {
 SearchTree Insert( ElementType x, SearchTree T) {
     if(T == NULL) {
         // Create and return a one-node tree
-        T = new(TreeNode);
+        T = (SearchTree) malloc(sizeof(TreeNode));
         if(T == NULL) {
             printf("out of space\n");
             return NULL;

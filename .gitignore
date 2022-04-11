@@ -1,0 +1,8 @@
+insertSort.exe
+
+insertSort.c
+README_inProject.md
+test.cpp
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/tasks.json
